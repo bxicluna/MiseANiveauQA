@@ -9,4 +9,8 @@ function division(x , y) {
     return x / y;
 }
 
-module.exports = {addition, division}
+function cube(c) {
+    return c * c * c;
+}
+
+module.exports = {addition, division, cube}

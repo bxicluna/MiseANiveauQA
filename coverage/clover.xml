@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1751626274814" clover="3.2.0">
+  <project timestamp="1751626274815" name="All files">
+    <metrics statements="6" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="3" elements="11" coveredelements="9" complexity="0" loc="6" ncloc="6" packages="1" files="1" classes="1"/>
+    <file name="math.js" path="C:\Users\bland\OneDrive\Bureau\jour 2\math.js">
+      <metrics statements="6" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="3"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="6" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
